@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/746995/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: "Tue, 10 Jan 2023 12:18:03 UTC"
+update_date: "Thu, 19 Jan 2023 10:04:53 UTC"
 stages:
 - id: 1339
   step: 20572
@@ -16,7 +16,7 @@ stages:
   is_completed: true
 - id: 1342
   step: 20575
-  is_completed: false
+  is_completed: true
 - id: 1343
   step: 20576
   is_completed: false
@@ -73,6 +73,10 @@ topics:
   - title: Naming variables
     theory_id: 8364
   2:
+  - title: Defining functions
+    theory_id: 24012
+  - title: Builtin JS Functions
+    theory_id: 24019
   - title: setTimeout and setInterval
     theory_id: 9680
   - title: Anonymous Function
