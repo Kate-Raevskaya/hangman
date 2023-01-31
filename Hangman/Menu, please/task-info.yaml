@@ -877,6 +877,12 @@ files:
     if __name__ == '__main__':
         HangmanTest('hangman.hangman').run_tests()
   learner_created: false
+- name: index.html
+  visible: true
+  learner_created: true
+- name: style.css
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/20579#comment
 check_profile: hyperskill_node_javascript
 status: Solved
